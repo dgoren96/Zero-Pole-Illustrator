@@ -1,0 +1,64 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char **argv);"
+
+[QuitCallback]
+Class="Function"
+Prototype="int QuitCallback(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[addzero]
+Class="Function"
+Prototype="int addzero(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[addpole]
+Class="Function"
+Prototype="int addpole(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[GET_ZEROPOLE]
+Class="Function"
+Prototype="double *GET_ZEROPOLE(char *string, int len);"
+
+[CheckProperties]
+Class="Function"
+Prototype="void CheckProperties();"
+
+[FindGain]
+Class="Function"
+Prototype="void FindGain();"
+
+[Stable]
+Class="Function"
+Prototype="void Stable();"
+
+[Causal_MinPhase]
+Class="Function"
+Prototype="void Causal_MinPhase();"
+
+[UpdateLists]
+Class="Function"
+Prototype="void UpdateLists();"
+
+[Real]
+Class="Function"
+Prototype="void Real();"
+
+[FIR]
+Class="Function"
+Prototype="void FIR();"
+
+[Delete_Zero]
+Class="Function"
+Prototype="int Delete_Zero(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Delete_Pole]
+Class="Function"
+Prototype="int Delete_Pole(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[DrawMap]
+Class="Function"
+Prototype="void DrawMap();"
+
+[DoubleZeroPole]
+Class="Function"
+Prototype="void DoubleZeroPole();"
+

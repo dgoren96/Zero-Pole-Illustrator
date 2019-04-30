@@ -1,0 +1,1 @@
+-force-include-file "ZeroPoleIllustrator.c";"c:\Users\dgore\Desktop\ZeroPoleIllustrator\ZeroPoleIllustrator.c" -force-include-file "ZeroPoleIllustrator.h";"c:\Users\dgore\Desktop\ZeroPoleIllustrator\ZeroPoleIllustrator.h" 
